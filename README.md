@@ -1,6 +1,8 @@
 # dnb
 German National Library's contributions to Linked Library Data Doers on Github
 
+Work in Progress / Construction Area
+
 The examples provided have been converted from Pica+ to RDF/XML. They are available online from URIs like
 	http://d-nb.info/1026761875/about/rdf 
 
