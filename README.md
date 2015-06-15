@@ -1,8 +1,8 @@
 # dnb
 German National Library's contributions to Linked Library Data Doers on Github
 
-The examples provided have been converted from Pica+ to RDF/XML. They are available online from URIs
-	http://d-nb.info/<ID>/about/lds 
+The examples provided have been converted from Pica+ to RDF/XML. They are available online from URIs like
+	http://d-nb.info/1026761875/about/rdf 
 
 The Tolkien example of "Der Herr der Ringe" and its first volume "Die Gefährten" is modelled internally according to the model of hierarchical description.  The single volume is described in a record for a part with dependent title (MARC leader position 19 "Multipart resource record level" value "c"), and the resource as a whole is described in a set record (MARC leader / 19 value "a").  Information regarding the resource as a whole is partly included into the representation of the single volume.  Both resources are linked, from the record for the part to the record for the whole ("bottom up").  Background of this hierarchical model is available in the two papers written by the German National Library for discussion at the MARBI meetings in 2007, online at
 	http://www.loc.gov/marc/marbi/2007/2007-dp01.html#section25
