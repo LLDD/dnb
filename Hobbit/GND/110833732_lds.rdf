@@ -1,0 +1,69 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/110833732">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson" />
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Walter_Scherf" />
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/212473482" />
+		<gndo:gndIdentifier>110833732</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588)17733701X</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)17733701X</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)110833732</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)131069373</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4522417-1</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Tejo</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:personalName>Tejo</gndo:personalName>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Scherf, W.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>W.</gndo:forename>
+			<gndo:surname>Scherf</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Scherf, Walther</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Walther</gndo:forename>
+			<gndo:surname>Scherf</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Scherf, Walter</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Walter</gndo:forename>
+			<gndo:surname>Scherf</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:affiliation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/1005531-9">
+				<gndo:preferredNameForTheCorporateBody>Internationale Jugendbibliothek</gndo:preferredNameForTheCorporateBody>
+			</rdf:Description>
+		</gndo:affiliation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4167889-8">
+				<gndo:preferredNameForTheSubjectHeading>Literaturwissenschaftler</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4032009-1">
+				<gndo:preferredNameForTheSubjectHeading>Komponist</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:functionOrRole>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4061414-1">
+				<gndo:preferredNameForTheSubjectHeading>Übersetzer</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:functionOrRole>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#6.7p" />
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#12.1p" />
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE" />
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Volksmusiksammler; Dt. Märchenforscher, Kinder- und Jugend-Literaturforscher</gndo:biographicalOrHistoricalInformation>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4037124-4">
+				<gndo:preferredNameForThePlaceOrGeographicName>Mainz</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfDeath>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4127793-4">
+				<gndo:preferredNameForThePlaceOrGeographicName>München</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfDeath>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male" />
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1920-06-11</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2010-10-25</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF>

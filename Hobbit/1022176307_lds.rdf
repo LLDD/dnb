@@ -14,9 +14,9 @@
 		<dcterms:creator rdf:resource="http://d-nb.info/gnd/118623222" />
 		<dcterms:contributor rdf:resource="http://d-nb.info/gnd/110833732" />
 		<marcRole:ill rdf:resource="http://d-nb.info/gnd/156605406" />
-		<rdau:P60163>MuÌˆnchen</rdau:P60163>
+		<rdau:P60163>München</rdau:P60163>
 		<dc:publisher>Dt. Taschenbuch-Verl.</dc:publisher>
-		<rdau:P60333>MuÌˆnchen : Dt. Taschenbuch-Verl., 2012</rdau:P60333>
+		<rdau:P60333>München : Dt. Taschenbuch-Verl., 2012</rdau:P60333>
 		<isbd:P1053>459 S.</isbd:P1053>
 		<dcterms:issued>2012</dcterms:issued>
 		<bibo:authorList>

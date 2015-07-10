@@ -1,0 +1,16 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/4061414-1">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#SubjectHeadingSensoStricto" />
+		<skos:relatedMatch rdf:resource="http://zbw.eu/stw/descriptor/14003-3" />
+		<gndo:gndIdentifier>4061414-1</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588c)4061414-1</gndo:oldAuthorityNumber>
+		<gndo:relatedDdcWithDegreeOfDeterminacy3 rdf:resource="http://dewey.info/class/418.02092/e22/" />
+		<gndo:variantNameForTheSubjectHeading>Sprachmittler &lt;Übersetzer&gt;</gndo:variantNameForTheSubjectHeading>
+		<gndo:preferredNameForTheSubjectHeading>Übersetzer</gndo:preferredNameForTheSubjectHeading>
+		<gndo:broaderTermGeneral rdf:resource="http://d-nb.info/gnd/4518976-6" />
+		<gndo:relatedTerm rdf:resource="http://d-nb.info/gnd/4012679-1" />
+		<gndo:relatedTerm rdf:resource="http://d-nb.info/gnd/4372438-3" />
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#11.1a" />
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#9.4ab" />
+	</rdf:Description>
+</rdf:RDF>

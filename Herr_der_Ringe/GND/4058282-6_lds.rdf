@@ -1,0 +1,35 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/4058282-6">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit" />
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Stuttgart" />
+		<gndo:gndIdentifier>4058282-6</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588)2027583-3</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)16106349-4</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)5163412-0</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)2027583-3</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4058282-6</gndo:oldAuthorityNumber>
+		<owl:sameAs rdf:resource="http://sws.geonames.org/2825297" />
+		<geo:hasGeometry rdf:parseType="Resource">
+			<rdf:type rdf:resource="http://www.opengis.net/ont/sf#Point" />
+			<geo:asWKT rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">Point ( +009.176944 +048.782222 )</geo:asWKT>
+		</geo:hasGeometry>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE-BW" />
+		<gndo:homepage rdf:resource="http://www.stuttgart.de" />
+		<gndo:definition xml:lang="de">Hauptstadt von Baden-Württemberg u. des Regierungsbezirks Stuttgart, entwickelte sich aus dem um 950 entstandenen Gestüt Stuotgarten, um 1160 u. 1229 urkundl. erwähnt, Stadt seit dem 13. Jh.</gndo:definition>
+		<gndo:variantNameForThePlaceOrGeographicName>Stuotgarten</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Stadt der Auslandsdeutschen</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Landeshauptstadt Stuttgart</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Estugarola</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Stoccarda</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Estugarda</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Stutgard</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Stoutgart</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Stuttgard</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Groß-Stuttgart</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Štutgart</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Capital City Stuttgart</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>State Capital of Stuttgart</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Stadtgemeinde Stuttgart</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:preferredNameForThePlaceOrGeographicName>Stuttgart</gndo:preferredNameForThePlaceOrGeographicName>
+	</rdf:Description>
+</rdf:RDF>

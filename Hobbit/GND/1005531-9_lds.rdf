@@ -1,0 +1,31 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/1005531-9">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#CorporateBody" />
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Internationale_Jugendbibliothek" />
+		<gndo:gndIdentifier>1005531-9</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588)4075071-1</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4075071-1</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)1005531-9</gndo:oldAuthorityNumber>
+		<gndo:variantNameForTheCorporateBody>Bibliothèque Internationale de la Jeunesse</gndo:variantNameForTheCorporateBody>
+		<gndo:variantNameForTheCorporateBody>BIJ</gndo:variantNameForTheCorporateBody>
+		<gndo:variantNameForTheCorporateBody>International Youth Library</gndo:variantNameForTheCorporateBody>
+		<gndo:variantNameForTheCorporateBody>IYL</gndo:variantNameForTheCorporateBody>
+		<gndo:variantNameForTheCorporateBody>Meždunarodnaja Biblioteka dlja Junošestva</gndo:variantNameForTheCorporateBody>
+		<gndo:variantNameForTheCorporateBody>Biblioteca Giovanile Internazionale</gndo:variantNameForTheCorporateBody>
+		<gndo:variantNameForTheCorporateBody>Biblioteca Internacional de la Juventud</gndo:variantNameForTheCorporateBody>
+		<gndo:variantNameForTheCorporateBody>Diethnēs Neanikē Bibliothēke tu Monachu</gndo:variantNameForTheCorporateBody>
+		<gndo:variantNameForTheCorporateBody>Internationale Jugendbibliothek / Schloss Blutenburg</gndo:variantNameForTheCorporateBody>
+		<gndo:variantNameForTheCorporateBody>IJB</gndo:variantNameForTheCorporateBody>
+		<gndo:preferredNameForTheCorporateBody>Internationale Jugendbibliothek</gndo:preferredNameForTheCorporateBody>
+		<gndo:topic rdf:resource="http://d-nb.info/gnd/4028911-4" />
+		<gndo:broaderTermInstantial rdf:resource="http://d-nb.info/gnd/4182209-2" />
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#6.7" />
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#12.3" />
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#6.2a" />
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE-BY" />
+		<gndo:homepage rdf:resource="http://www.ijb.de" />
+		<gndo:dateOfEstablishment>14.9.1949</gndo:dateOfEstablishment>
+		<gndo:placeOfBusiness rdf:resource="http://d-nb.info/gnd/4127793-4" />
+		<gndo:spatialAreaOfActivity rdf:resource="http://d-nb.info/gnd/4005044-0" />
+	</rdf:Description>
+</rdf:RDF>

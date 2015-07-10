@@ -1,0 +1,27 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/1026761875">
+		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Collection" />
+		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
+		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1026761875" />
+		<bibo:isbn13>9783608939842</bibo:isbn13>
+		<rdau:P60001>kart. : EUR 34.95 (DE), EUR 36.00 (AT), sfr 46.90 (freier Pr.)</rdau:P60001>
+		<dc:identifier>(OColc)76425551</dc:identifier>
+		<dc:title>Der Herr der Ringe</dc:title>
+		<dcterms:alternative>The lord of the rings &lt;dt.&gt;</dcterms:alternative>
+		<dcterms:creator rdf:resource="http://d-nb.info/gnd/118623222" />
+		<dcterms:contributor rdf:resource="http://d-nb.info/gnd/108928489" />
+		<rdau:P60163>Stuttgart</rdau:P60163>
+		<dc:publisher>Klett-Cotta</dc:publisher>
+		<dcterms:isPartOf>Hobbit-Presse</dcterms:isPartOf>
+		<bibo:authorList>
+			<rdf:Seq>
+				<rdf:li rdf:resource="http://d-nb.info/gnd/118623222" />
+			</rdf:Seq>
+		</bibo:authorList>
+		<bibo:contributorList>
+			<rdf:Seq>
+				<rdf:li rdf:resource="http://d-nb.info/gnd/108928489" />
+			</rdf:Seq>
+		</bibo:contributorList>
+	</rdf:Description>
+</rdf:RDF>

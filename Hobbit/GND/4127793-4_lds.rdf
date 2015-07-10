@@ -1,0 +1,45 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/4127793-4">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit" />
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/M%C3%BCnchen" />
+		<gndo:gndIdentifier>4127793-4</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588)2052959-4</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)2052959-4</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588)1006792-9</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)10291712-7</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)6500199-0</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-101c)320171205</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)1006792-9</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4127793-4</gndo:oldAuthorityNumber>
+		<owl:sameAs rdf:resource="http://sws.geonames.org/2867714" />
+		<geo:hasGeometry rdf:parseType="Resource">
+			<rdf:type rdf:resource="http://www.opengis.net/ont/sf#Point" />
+			<geo:asWKT rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">Point ( +011.575277 +048.137222 )</geo:asWKT>
+		</geo:hasGeometry>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DXDE" />
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE-BY" />
+		<gndo:homepage rdf:resource="http://www.muenchen.de" />
+		<gndo:biographicalOrHistoricalInformation xml:lang="de">Neolith. besiedelt, 1158 als Markt Munichen urkundl. erwähnt</gndo:biographicalOrHistoricalInformation>
+		<gndo:definition xml:lang="de">Hauptstadt von Bayern</gndo:definition>
+		<gndo:variantNameForThePlaceOrGeographicName>Monachum</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Munichen</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>K. Haupt- und Residenzstadt München</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Königliche Haupt- und Residenzstadt München</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Monaco di Baviera</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Monachium</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Munich</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Monaco &lt;Bayern&gt;</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Mjunchen</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Mnichov</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Hauptstadt München</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Munihei</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Minga</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Monacho</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Monachon</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Hauptstadt der Bewegung</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Minkhen</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Münich</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Landeshauptstadt München</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:preferredNameForThePlaceOrGeographicName>München</gndo:preferredNameForThePlaceOrGeographicName>
+	</rdf:Description>
+</rdf:RDF>

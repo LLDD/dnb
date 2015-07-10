@@ -1,0 +1,36 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/108928489">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson" />
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Wolfgang_Krege" />
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/Wolfgang_Krege" />
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/37153468" />
+		<gndo:gndIdentifier>108928489</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)108928489</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Krege, Wolfgang</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Wolfgang</gndo:forename>
+			<gndo:surname>Krege</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4061414-1">
+				<gndo:preferredNameForTheSubjectHeading>Übersetzer</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupationAsLiteral>Verlagslektor</gndo:professionOrOccupationAsLiteral>
+		<gndo:professionOrOccupationAsLiteral>Werbetexter</gndo:professionOrOccupationAsLiteral>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE" />
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4005728-8">
+				<gndo:preferredNameForThePlaceOrGeographicName>Berlin</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfDeath>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4058282-6">
+				<gndo:preferredNameForThePlaceOrGeographicName>Stuttgart</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfDeath>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male" />
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1939-02-01</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-04-13</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF>

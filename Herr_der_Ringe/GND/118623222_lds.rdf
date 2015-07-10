@@ -1,0 +1,121 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/118623222">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson" />
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/J._R._R._Tolkien" />
+		<owl:sameAs rdf:resource="http://dbpedia.org/resource/J._R._R._Tolkien" />
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/95218067" />
+		<gndo:gndIdentifier>118623222</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588)185802087</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)185802087</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588)160271037</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)160271037</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588)15818212X</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)15818212X</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)118623222</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)134984269</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588a)131176935</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-101c)310674263</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4060359-3</gndo:oldAuthorityNumber>
+		<gndo:variantNameForThePerson>Tolkien, John Ronald Reuel</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>John Ronald Reuel</gndo:forename>
+			<gndo:surname>Tolkien</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Tolkien, John Ronald R.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>John Ronald R.</gndo:forename>
+			<gndo:surname>Tolkien</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Tolkien, John R. R.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>John R. R.</gndo:forename>
+			<gndo:surname>Tolkien</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Tolkien, John R.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>John R.</gndo:forename>
+			<gndo:surname>Tolkien</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Tolkien, John</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>John</gndo:forename>
+			<gndo:surname>Tolkien</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Tolkien, ...</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>...</gndo:forename>
+			<gndo:surname>Tolkien</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Tolkin, Džon Ronalʹd Ruėl</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Džon Ronalʹd Ruėl</gndo:forename>
+			<gndo:surname>Tolkin</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>Tolkin, Dž. R. R.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Dž. R. R.</gndo:forename>
+			<gndo:surname>Tolkin</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>T&apos;olk&apos;in, J. R. R.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>J. R. R.</gndo:forename>
+			<gndo:surname>T&apos;olk&apos;in</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>T&apos;ork&apos;in, J. R. R.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>J. R. R.</gndo:forename>
+			<gndo:surname>T&apos;ork&apos;in</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:variantNameForThePerson>トールキン, J.R.R.</gndo:variantNameForThePerson>
+		<gndo:variantNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>J.R.R.</gndo:forename>
+			<gndo:surname>トールキン</gndo:surname>
+		</gndo:variantNameEntityForThePerson>
+		<gndo:preferredNameForThePerson>Tolkien, J. R. R.</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>J. R. R.</gndo:forename>
+			<gndo:surname>Tolkien</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/130457671">
+				<gndo:preferredNameForThePerson>Tolkien, Christopher</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/128611383">
+				<gndo:preferredNameForThePerson>Tolkien, Simon</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:academicDegree>Professor</gndo:academicDegree>
+		<gndo:professionOrOccupationAsLiteral>Schriftsteller</gndo:professionOrOccupationAsLiteral>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4053309-8">
+				<gndo:preferredNameForTheSubjectHeading>Schriftsteller</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupationAsLiteral>Philologe</gndo:professionOrOccupationAsLiteral>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4199236-2">
+				<gndo:preferredNameForTheSubjectHeading>Philologe</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#12.2p" />
+		<gndo:gndSubjectCategory rdf:resource="http://d-nb.info/standards/vocab/gnd/gnd-sc#11.2p" />
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-GB" />
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-ZA" />
+		<gndo:publication>Sir Gawain and The Green Knight. - 1925</gndo:publication>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4488274-9">
+				<gndo:preferredNameForThePlaceOrGeographicName>Bloemfontein</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:placeOfDeath>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4044234-2">
+				<gndo:preferredNameForThePlaceOrGeographicName>Oxford</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfDeath>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#male" />
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1892-01-03</gndo:dateOfBirth>
+		<gndo:dateOfDeath rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1973-09-02</gndo:dateOfDeath>
+	</rdf:Description>
+</rdf:RDF>

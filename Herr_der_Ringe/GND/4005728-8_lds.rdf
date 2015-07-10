@@ -1,0 +1,41 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/4005728-8">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit" />
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#MemberState" />
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Berlin" />
+		<gndo:gndIdentifier>4005728-8</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588)2004272-3</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)10182267-4</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)2004272-3</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4005728-8</gndo:oldAuthorityNumber>
+		<owl:sameAs rdf:resource="http://sws.geonames.org/2950157" />
+		<geo:hasGeometry rdf:parseType="Resource">
+			<rdf:type rdf:resource="http://www.opengis.net/ont/sf#Point" />
+			<geo:asWKT rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">Point ( +013.416669 +052.500000 )</geo:asWKT>
+		</geo:hasGeometry>
+		<gndo:relatedTerm rdf:resource="http://d-nb.info/gnd/4442496-6" />
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE-BE" />
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DXDE" />
+		<gndo:homepage rdf:resource="http://www.berlin.de" />
+		<gndo:definition xml:lang="de">Hauptstadt u. Bundesland; 1237 (Cölln) bzw. 1244 (Berlin) urkundl. erwähnt, 1230/40 bzw. nach 1250 Stadtrecht, 1307 Union, 1370 gemeinsamer Rat, 1432 Vereinigung der Doppelstadt</gndo:definition>
+		<gndo:variantNameForThePlaceOrGeographicName>Großberlin</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Groß-Berlin</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Haupt- und Residenz-Stadt Berlin</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Reichshauptstadt Berlin</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Berlino</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Berolino</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Stadtgemeinde Berlin</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Hauptstadt Berlin</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Birlīn</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Barlīn</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Berolinon</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:variantNameForThePlaceOrGeographicName>Land Berlin</gndo:variantNameForThePlaceOrGeographicName>
+		<gndo:preferredNameForThePlaceOrGeographicName>Berlin</gndo:preferredNameForThePlaceOrGeographicName>
+		<gndo:relatedPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/4087295-6" />
+		<gndo:relatedPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/4069304-1" />
+		<gndo:relatedPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/1081214-3" />
+		<gndo:relatedPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/2042164-3" />
+		<gndo:relatedPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/142540-7" />
+		<gndo:relatedPlaceOrGeographicName rdf:resource="http://d-nb.info/gnd/142541-9" />
+	</rdf:Description>
+</rdf:RDF>

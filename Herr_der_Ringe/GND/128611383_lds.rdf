@@ -1,0 +1,51 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/128611383">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#DifferentiatedPerson" />
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Simon_Tolkien" />
+		<owl:sameAs rdf:resource="http://viaf.org/viaf/66708234" />
+		<gndo:gndIdentifier>128611383</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588a)128611383</gndo:oldAuthorityNumber>
+		<gndo:preferredNameForThePerson>Tolkien, Simon</gndo:preferredNameForThePerson>
+		<gndo:preferredNameEntityForThePerson rdf:parseType="Resource">
+			<gndo:forename>Simon</gndo:forename>
+			<gndo:surname>Tolkien</gndo:surname>
+		</gndo:preferredNameEntityForThePerson>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/130457671">
+				<gndo:preferredNameForThePerson>Tolkien, Christopher</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:familialRelationship>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/118623222">
+				<gndo:preferredNameForThePerson>Tolkien, J. R. R.</gndo:preferredNameForThePerson>
+			</rdf:Description>
+		</gndo:familialRelationship>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4126911-1">
+				<gndo:preferredNameForTheSubjectHeading>Strafverteidiger</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4056631-6">
+				<gndo:preferredNameForTheSubjectHeading>Staatsanwalt</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4048755-6">
+				<gndo:preferredNameForTheSubjectHeading>Rechtsanwalt</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:professionOrOccupation>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4003982-1">
+				<gndo:preferredNameForTheSubjectHeading>Autor</gndo:preferredNameForTheSubjectHeading>
+			</rdf:Description>
+		</gndo:professionOrOccupation>
+		<gndo:placeOfBirth>
+			<rdf:Description rdf:about="http://d-nb.info/gnd/4044234-2">
+				<gndo:preferredNameForThePlaceOrGeographicName>Oxford</gndo:preferredNameForThePlaceOrGeographicName>
+			</rdf:Description>
+		</gndo:placeOfBirth>
+		<gndo:gender rdf:resource="http://d-nb.info/standards/vocab/gnd/Gender#notKnown" />
+		<gndo:dateOfBirth rdf:datatype="http://www.w3.org/2001/XMLSchema#gYear">1959</gndo:dateOfBirth>
+	</rdf:Description>
+</rdf:RDF>

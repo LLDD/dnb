@@ -1,0 +1,18 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/1022340093">
+		<rdf:type rdf:resource="http://purl.org/ontology/bibo/Document" />
+		<dcterms:medium rdf:resource="http://rdvocab.info/termList/RDACarrierType/1044" />
+		<owl:sameAs rdf:resource="http://hub.culturegraph.org/resource/DNB-1022340093" />
+		<bibo:isbn13>9783608939811</bibo:isbn13>
+		<rdau:P60001>kart. : EUR 14.95 (DE), ca. EUR 15.40 (AT), sfr 21.90 (freier Pr.)</rdau:P60001>
+		<bibo:isbn10>3608939814</bibo:isbn10>
+		<bibo:gtin14>9783608939811</bibo:gtin14>
+		<dc:identifier>(OColc)813430458</dc:identifier>
+		<dcterms:language rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger" />
+		<dcterms:isPartOf rdf:resource="http://d-nb.info/1026761875" />
+		<dc:title>Der @Herr der Ringe</dc:title>
+		<isbd:P1053>608 S.</isbd:P1053>
+		<dcterms:issued>2012</dcterms:issued>
+		<rdau:P60493>Teil 1. Die @Gefährten</rdau:P60493>
+	</rdf:Description>
+</rdf:RDF>

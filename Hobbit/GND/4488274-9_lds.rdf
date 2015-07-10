@@ -1,0 +1,18 @@
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.opengis.net/ont/geosparql#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:sf="http://www.opengis.net/ont/sf#" xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" xmlns:gndo="http://d-nb.info/standards/elementset/gnd#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:marcRole="http://id.loc.gov/vocabulary/relators/" xmlns:lib="http://purl.org/library/" xmlns:umbel="http://umbel.org/umbel#" xmlns:rdau="http://rdaregistry.info/Elements/u/" xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+	<rdf:Description rdf:about="http://d-nb.info/gnd/4488274-9">
+		<rdf:type rdf:resource="http://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit" />
+		<foaf:page rdf:resource="http://de.wikipedia.org/wiki/Bloemfontein" />
+		<gndo:gndIdentifier>4488274-9</gndo:gndIdentifier>
+		<gndo:oldAuthorityNumber>(DE-588)1027769-9</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588b)1027769-9</gndo:oldAuthorityNumber>
+		<gndo:oldAuthorityNumber>(DE-588c)4488274-9</gndo:oldAuthorityNumber>
+		<owl:sameAs rdf:resource="http://sws.geonames.org/1018725" />
+		<geo:hasGeometry rdf:parseType="Resource">
+			<rdf:type rdf:resource="http://www.opengis.net/ont/sf#Point" />
+			<geo:asWKT rdf:datatype="http://www.opengis.net/ont/geosparql#wktLiteral">Point ( +026.213999 -029.121059 )</geo:asWKT>
+		</geo:hasGeometry>
+		<gndo:geographicAreaCode rdf:resource="http://d-nb.info/standards/vocab/gnd/geographic-area-code#XC-ZA" />
+		<gndo:definition xml:lang="de">Hauptstadt des Oranjefreistaats</gndo:definition>
+		<gndo:preferredNameForThePlaceOrGeographicName>Bloemfontein</gndo:preferredNameForThePlaceOrGeographicName>
+	</rdf:Description>
+</rdf:RDF>
